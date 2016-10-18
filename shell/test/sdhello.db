@@ -1,0 +1,16 @@
+/boot/grub/i386-pc/hello.mod
+/usr/lib/grub/i386-pc/hello.mod
+/usr/lib/python2.7/__phello__.foo.py
+/usr/lib/python3.5/__phello__.foo.py
+/usr/lib/python3.5/__pycache__/__phello__.foo.cpython-35.pyc
+/usr/share/cmake-3.5/Modules/IntelVSImplicitPath/hello.f
+/usr/share/codeblocks/templates/wizard/d/console/hello.d
+/usr/share/cowsay/cows/hellokitty.cow
+/usr/share/doc/python3-uno/demo/hello_world_comp.py
+/usr/share/doc/syslinux-common/asciidoc/hello.txt
+/usr/share/locale-langpack/en@boldquot/LC_MESSAGES/hello.mo
+/usr/share/locale-langpack/en@quot/LC_MESSAGES/hello.mo
+/usr/share/locale-langpack/en_AU/LC_MESSAGES/hello.mo
+/usr/share/locale-langpack/en_CA/LC_MESSAGES/hello.mo
+/usr/share/locale-langpack/en_GB/LC_MESSAGES/hello.mo
+/usr/share/locale-langpack/zh_CN/LC_MESSAGES/hello.mo
